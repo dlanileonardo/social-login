@@ -1,0 +1,22 @@
+{
+    "name": "dlanileonardo/social-login",
+    "description": "Social Login para Prestashop",
+    "license": "BSD-3-Clause",
+    "keywords": ["hybridauth", "login", "oauth", "social", "openid", "facebook", "google", "twitter", "yahoo", "prestashop"],
+    "homepage": "http://dlanileonardo.github.com/social-login/",
+    "license": "(MIT or GPL-3.0+)",
+    "authors": [
+        {
+            "name": "Dlani Mendes",
+            "email": "dlanileonardo@gmail.com"
+        }
+    ],
+    "support": {
+        "email": "dlanileonardo@gmail.com", 
+        "issues": "https://github.com/dlanileonardo/social-login/issues"
+    },
+    "require": {
+        "php": ">=5.2.0",
+	"hybridauth/hybridauth": "dev-master"
+    }
+}
