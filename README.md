@@ -1,4 +1,4 @@
 Login Social
 ============
 
-Módulo de Login Social (Twitter, Facebook, Google, etc)
+Módulo para Prestashop de Login Social (Twitter, Facebook, Google, etc)
